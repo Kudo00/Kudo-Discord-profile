@@ -1,0 +1,77 @@
+body{
+  background-color: blanchedalmond;
+}
+
+.profile-main{
+  width: 350px;
+  height: 750px;
+  background-color: #2a282e;
+  border-radius: 15px;
+  padding: 10px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+  position: relative;
+}
+
+.iconimg{
+  width: 90px;
+  height: 90px;
+  border-radius: 90px;
+  border: 6px solid #2a282e;
+  position: relative;
+  top: -50px;
+  left: -4px;
+}
+
+.banner{
+  width: 350px;
+  height: 180px;
+  border-radius: 15px;
+}
+
+.iconh2{
+  position: relative;
+  color: whitesmoke;
+  top: -1px;
+  right: -1px;
+}
+
+.usernamegui{
+  width: 350px;
+  height: 100px;
+  background-color: #1d1a1a; 
+  border-radius: 15px;
+  position: absolute;
+  border: 3px solid #1d1a1a;
+  top: 250px;
+  
+}
+
+.aboutemegui{
+  width: 350px;
+  height: 310px;
+  background-color: #1d1a1a; 
+  border-radius: 15px;
+  position: absolute;
+  border: 3px solid #1d1a1a;
+}
+
+.username{
+  color: azure;
+  position: relative;
+  right: -10px;
+  top: -10px;
+}
+
+.name{
+  color: azure;
+  position: relative;
+  right: -10px;
+  top: -33px;
+}
+
+.story{
+  color: azure;
+  position: relative;
+  right: -10px;
+  top: -47px;
+}
